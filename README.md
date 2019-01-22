@@ -11,7 +11,9 @@ For Windows user, I create a very simple GUI with three buttons and one entry:
 3. Input Box: Name of *.xlsx
 4. Run: is run...
 ##### or:
+Termial:
 > python3 AutoRunResultGenerator.py 
+
 
 ### Required Packages:
 > pandas
