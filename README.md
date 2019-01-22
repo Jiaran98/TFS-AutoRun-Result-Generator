@@ -10,4 +10,12 @@ For Windows user, I create a very simple GUI with three buttons and one entry:
 2. Save: it will bring up file exploere, select a folder where you want to save *.xlsx.
 3. Input Box: Name of *.xlsx
 4. Run: is run...
+##### or:
+> python3 AutoRunResultGenerator.py 
 
+### Required Packages:
+> pandas
+
+> numpy
+
+> xlsxwriter
