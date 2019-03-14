@@ -2,16 +2,16 @@
 
 #### Why?
 Creating an error list manually is not intuitive and effective. Since 
-#### What?
+#### What does it do?
 This tool converts *.trx file to *.xlsx. 
-#### How?
-For Windows user, I create a very simple GUI with three buttons and one entry:
-1. Open: it will bring up file explorer. Once you pick *.trx file, there will be location of it underneath the button.
-2. Save: it will bring up file exploere, select a folder where you want to save *.xlsx.
-3. Input Box: Name of *.xlsx
-4. Run: is run...
+#### How to start?
+A simple GUI with three buttons and one input box is available for Windows users.
+1. Open button brings up a file explorer. Once you pick *.trx file, the path of it will show up underneath the button.
+2. Save button brings up a file exploere, you can select a folder where you want to save *.xlsx.
+3. Input Box: Input Name of *.xlsx
+4. Run button runs the convertor
 ##### or:
-Termial:
+Use termial:
 > python3 AutoRunResultGenerator.py 
 
 
