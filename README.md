@@ -1,7 +1,7 @@
 # TFS-auto-test-result-.trx-file-convertor
 
 #### Why?
-Creating an error list manually is not intuitive and effective. Since 
+Creating an error list manually is not intuitive and effective. Since the info in *.trx is massive, you have to massage the data.
 #### What does it do?
 This tool converts *.trx file to *.xlsx. 
 #### How to start?
