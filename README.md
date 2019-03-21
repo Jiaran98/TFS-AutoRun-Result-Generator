@@ -1,7 +1,7 @@
 # TFS-auto-test-result-.trx-file-convertor
 
-#### Why?
-Creating an error list manually is not intuitive and effective. Since the info in *.trx is massive, you have to massage the data.
+#### Why do we need this project?
+Creating an error list manually is not intuitive and effective. Since the info in *.trx is massive, you have to massage the data. Therefore, we need a converter to automatically collect the information for us.
 #### What does it do?
 This tool converts *.trx file to *.xlsx. 
 #### How to start?
@@ -17,7 +17,8 @@ Use termial:
 
 ### Required Packages:
 > pandas
-
+ To get package, please go to https://pandas.pydata.org/
 > numpy
-
+ To get package, please go to http://www.numpy.org/
 > xlsxwriter
+  More information related to xlsxwriter can be found at https://xlsxwriter.readthedocs.io/
